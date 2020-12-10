@@ -1,2 +1,2 @@
 # react-class-base-component
-Created with CodeSandbox
+Playing with react class base component and structure.
