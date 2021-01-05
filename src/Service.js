@@ -18,7 +18,7 @@ class Service extends Component {
       <div className="service">
         <div>
           {this.state.loading || !this.state.persons
-            ? "Loading..."
+            ? "Loading . . ."
             : this.state.persons.map((pt, id) => (
                 <Singleservice key={id} pt={pt} />
               ))}
